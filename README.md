@@ -4,18 +4,20 @@
 
 Scan the QR code from the Course Control desktop app and start playing.
 
-## Download
+## 👉 Download
 
-Go to the [latest release](https://github.com/coursecontrol/coursecontrol-releases/releases/latest) and download the installer for your system:
+### [⬇ Download Course Control for Windows (x64)](https://github.com/coursecontrol/coursecontrol-releases/releases/latest)
+
+**This is what 99% of people need.** Click the link, then on the release page click the file ending in `-x64.exe` to download it.
+
+> **Ignore everything else on the release page.** All the other `.exe`, `.blockmap`, `.yml`, and "Source code" files are used internally by auto-update and by GitHub — you don't need to download any of them.
 
 | File | Who it's for |
 | --- | --- |
 | **CourseControl-Setup-x64.exe** | Most Windows PCs (Intel / AMD) — **download this one** |
-| CourseControl-Setup-arm64.exe | ARM-based Windows PCs (Surface Pro X, Surface Pro 9 5G, etc.) |
+| CourseControl-Setup-arm64.exe | ARM-based Windows PCs only (Surface Pro X, Surface Pro 9 5G, Lenovo ThinkPad X13s) |
 
 > If you're not sure which one to pick, you're on x64. Almost every Windows PC sold in the last 15 years is x64.
-
-> The `CourseControl-Setup-X.Y.Z.exe` file (without an architecture suffix), the `.blockmap` files, and `latest.yml` are all used internally by auto-update. You don't need to download them.
 
 ## Installation
 
