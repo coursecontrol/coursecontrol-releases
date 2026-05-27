@@ -11,9 +11,11 @@ Go to the [latest release](https://github.com/coursecontrol/coursecontrol-releas
 | File | Who it's for |
 | --- | --- |
 | **CourseControl-Setup-x64.exe** | Most Windows PCs (Intel / AMD) — **download this one** |
-| CourseControl-Setup-arm64.exe | ARM-based Windows PCs (Surface Pro X, etc.) |
+| CourseControl-Setup-arm64.exe | ARM-based Windows PCs (Surface Pro X, Surface Pro 9 5G, etc.) |
 
-> The `.blockmap`, `latest.yml`, and source code files are used internally for auto-updates. You don't need to download them.
+> If you're not sure which one to pick, you're on x64. Almost every Windows PC sold in the last 15 years is x64.
+
+> The `CourseControl-Setup-X.Y.Z.exe` file (without an architecture suffix), the `.blockmap` files, and `latest.yml` are all used internally by auto-update. You don't need to download them.
 
 ## Installation
 
