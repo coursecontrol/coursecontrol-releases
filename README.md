@@ -85,3 +85,6 @@ Updates also install silently when you quit the app. You never need to re-downlo
 - **Controls not working?** GS Pro must be the active (foreground) window for controls to work.
 - **QR code not scanning?** You can also type the address shown on the dashboard directly into your phone's browser.
 - **App not starting?** Check that Course Control isn't already running in the system tray (bottom-right of your taskbar).
+- **Multiple people use your sim?** Click "Print poster" under the QR on the dashboard — prints a one-page sheet you can tape up so guests scan to connect without asking for the IP.
+
+For the full troubleshooting reference (license activation, auto-update, SmartScreen warnings, and more), see **[thecoursecontrol.com/help](https://thecoursecontrol.com/help)** — also linked from the dashboard's footer.
